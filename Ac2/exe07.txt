@@ -1,0 +1,5 @@
+7) Descreva a saída resultante da seguinte série de operações de pilha: push(5), push(3),
+pop( ),push(2), push(8), pop( ), pop( ), push(9), push(1), pop( ), push(7), push(6), pop(),
+pop(), push(4), pop(), pop( ).
+
+Saída:-,-,3,-,-,8,2,-,-,1,-,-,6,7,-,4,9

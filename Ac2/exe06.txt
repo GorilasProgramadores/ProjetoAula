@@ -1,0 +1,4 @@
+6) Se implementarmos a pilha S do problema anterior usando um arranjo, então qual
+ será o valor corrente da variável de instância top?
+
+R:O top será o último item colocado na pilha (o último valor do arranjo) .
